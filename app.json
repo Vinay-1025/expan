@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "financetracker",
+    "slug": "financetracker",
+    "privacy": "public",
+    "sdkVersion": "48.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "b72dbdfe-49a4-4401-bb2d-f64eefb10d42"
+      }
+    },
+    "android": {
+      "package": "com.vinay1025.financetracker"
+    }
+  },
+  "android": {
+    "package": "expantrack"
+  }
+}
